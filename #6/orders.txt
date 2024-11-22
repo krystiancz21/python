@@ -1,0 +1,5 @@
+Order details: [ - product: quantity]
+ - Lalka: 2 
+ - Smartphone: 1 
+
+Total price: 1601.3PLN
