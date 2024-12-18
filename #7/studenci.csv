@@ -1,0 +1,3 @@
+Imię;Nazwisko;Numer indeksu;Email;Oceny
+Jan;Kowalski;12345;jan.kowalski@pollub.edu.pl;('Matematyka',4.5);('Fizyka',3.5);('Programowanie',5.0);('Język obcy',4.0)
+Anna;Nowak;54321;anna.nowak@pollub.edu.pl;('Matematyka',5.0);('Fizyka',4.5);('Programowanie',4.5);('Język obcy',5.0)
